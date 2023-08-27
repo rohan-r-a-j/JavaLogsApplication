@@ -1,0 +1,415 @@
+User Action registerError
+Iterations 10
+Product tv
+Method Name fnRegister  Session Id web-1692995835393 Status=Error  Error Registering user with email testEmail54@gmail.com
+Method Name fnRegister  Session Id web-1692995835393 Status=Error  Error Registering user with email testEmail5@gmail.com
+Method Name fnRegister  Session Id web-1692995835393 Status=Error  Error Registering user with email testEmail90@gmail.com
+Method Name fnRegister  Session Id web-1692995835393 Status=Error  Error Registering user with email testEmail35@gmail.com
+Method Name fnRegister  Session Id web-1692995835393 Status=Error  Error Registering user with email testEmail32@gmail.com
+Method Name fnRegister  Session Id web-1692995835393 Status=Error  Error Registering user with email testEmail21@gmail.com
+Method Name fnRegister  Session Id web-1692995835393 Status=Error  Error Registering user with email testEmail4@gmail.com
+Method Name fnRegister  Session Id web-1692995835394 Status=Error  Error Registering user with email testEmail65@gmail.com
+Method Name fnRegister  Session Id web-1692995835394 Status=Error  Error Registering user with email testEmail73@gmail.com
+Method Name fnRegister  Session Id web-1692995835394 Status=Error  Error Registering user with email testEmail61@gmail.com
+Starting VishalLogsProjectApplication using Java 17.0.7 with PID 19264 (C:\Users\rohan_raj\Downloads\Vishal-logs-project\target\classes started by rohan_raj in C:\Users\rohan_raj\Downloads\Vishal-logs-project)
+No active profile set, falling back to 1 default profile: "default"
+Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+Tomcat initialized with port(s): 8099 (http)
+Initializing ProtocolHandler ["http-nio-8099"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/10.1.11]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1463 ms
+LiveReload server is running on port 35729
+Starting ProtocolHandler ["http-nio-8099"]
+Tomcat started on port(s): 8099 (http) with context path ''
+Started VishalLogsProjectApplication in 2.688 seconds (process running for 5.015)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 1 ms
+User Action productError
+Iterations 20
+Product music
+Method Name fnLogin  Session Id web-1693076663417 Status=Success  Logging in user with email testEmail27@gmail.com
+Method Name fnProduct  Session Id web-1693076663417 Status=Error  Error Viewing product music
+Method Name fnLogin  Session Id web-1693076663418 Status=Success  Logging in user with email testEmail51@gmail.com
+Method Name fnProduct  Session Id web-1693076663418 Status=Error  Error Viewing product music
+Method Name fnLogin  Session Id web-1693076663418 Status=Success  Logging in user with email testEmail91@gmail.com
+Method Name fnProduct  Session Id web-1693076663418 Status=Error  Error Viewing product music
+Method Name fnLogin  Session Id web-1693076663419 Status=Success  Logging in user with email testEmail99@gmail.com
+Method Name fnProduct  Session Id web-1693076663419 Status=Error  Error Viewing product music
+Method Name fnLogin  Session Id web-1693076663420 Status=Success  Logging in user with email testEmail74@gmail.com
+Method Name fnProduct  Session Id web-1693076663420 Status=Error  Error Viewing product music
+Method Name fnLogin  Session Id web-1693076663420 Status=Success  Logging in user with email testEmail55@gmail.com
+Method Name fnProduct  Session Id web-1693076663420 Status=Error  Error Viewing product music
+Method Name fnLogin  Session Id web-1693076663420 Status=Success  Logging in user with email testEmail40@gmail.com
+Method Name fnProduct  Session Id web-1693076663420 Status=Error  Error Viewing product music
+Method Name fnLogin  Session Id web-1693076663420 Status=Success  Logging in user with email testEmail86@gmail.com
+Method Name fnProduct  Session Id web-1693076663420 Status=Error  Error Viewing product music
+Method Name fnLogin  Session Id web-1693076663422 Status=Success  Logging in user with email testEmail44@gmail.com
+Method Name fnProduct  Session Id web-1693076663422 Status=Error  Error Viewing product music
+Method Name fnLogin  Session Id web-1693076663422 Status=Success  Logging in user with email testEmail37@gmail.com
+Method Name fnProduct  Session Id web-1693076663422 Status=Error  Error Viewing product music
+Method Name fnLogin  Session Id web-1693076663422 Status=Success  Logging in user with email testEmail11@gmail.com
+Method Name fnProduct  Session Id web-1693076663422 Status=Error  Error Viewing product music
+Method Name fnLogin  Session Id web-1693076663422 Status=Success  Logging in user with email testEmail57@gmail.com
+Method Name fnProduct  Session Id web-1693076663422 Status=Error  Error Viewing product music
+Method Name fnLogin  Session Id web-1693076663422 Status=Success  Logging in user with email testEmail81@gmail.com
+Method Name fnProduct  Session Id web-1693076663422 Status=Error  Error Viewing product music
+Method Name fnLogin  Session Id web-1693076663423 Status=Success  Logging in user with email testEmail98@gmail.com
+Method Name fnProduct  Session Id web-1693076663423 Status=Error  Error Viewing product music
+Method Name fnLogin  Session Id web-1693076663423 Status=Success  Logging in user with email testEmail31@gmail.com
+Method Name fnProduct  Session Id web-1693076663423 Status=Error  Error Viewing product music
+Method Name fnLogin  Session Id web-1693076663423 Status=Success  Logging in user with email testEmail10@gmail.com
+Method Name fnProduct  Session Id web-1693076663423 Status=Error  Error Viewing product music
+Method Name fnLogin  Session Id web-1693076663423 Status=Success  Logging in user with email testEmail77@gmail.com
+Method Name fnProduct  Session Id web-1693076663423 Status=Error  Error Viewing product music
+Method Name fnLogin  Session Id web-1693076663423 Status=Success  Logging in user with email testEmail32@gmail.com
+Method Name fnProduct  Session Id web-1693076663423 Status=Error  Error Viewing product music
+Method Name fnLogin  Session Id web-1693076663423 Status=Success  Logging in user with email testEmail43@gmail.com
+Method Name fnProduct  Session Id web-1693076663423 Status=Error  Error Viewing product music
+Method Name fnLogin  Session Id web-1693076663423 Status=Success  Logging in user with email testEmail59@gmail.com
+Method Name fnProduct  Session Id web-1693076663423 Status=Error  Error Viewing product music
+Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+Pausing ProtocolHandler ["http-nio-8099"]
+Stopping service [Tomcat]
+Destroying Spring FrameworkServlet 'dispatcherServlet'
+Stopping ProtocolHandler ["http-nio-8099"]
+Destroying ProtocolHandler ["http-nio-8099"]
+Starting VishalLogsProjectApplication using Java 17.0.7 with PID 19264 (C:\Users\rohan_raj\Downloads\Vishal-logs-project\target\classes started by rohan_raj in C:\Users\rohan_raj\Downloads\Vishal-logs-project)
+No active profile set, falling back to 1 default profile: "default"
+Tomcat initialized with port(s): 8099 (http)
+Initializing ProtocolHandler ["http-nio-8099"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/10.1.11]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 370 ms
+LiveReload server is running on port 35729
+Starting ProtocolHandler ["http-nio-8099"]
+Tomcat started on port(s): 8099 (http) with context path ''
+Started VishalLogsProjectApplication in 0.605 seconds (process running for 65.827)
+Condition evaluation unchanged
+Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+Pausing ProtocolHandler ["http-nio-8099"]
+Stopping service [Tomcat]
+Stopping ProtocolHandler ["http-nio-8099"]
+Destroying ProtocolHandler ["http-nio-8099"]
+00:35:19.404 Starting VishalLogsProjectApplication using Java 17.0.7 with PID 19264 (C:\Users\rohan_raj\Downloads\Vishal-logs-project\target\classes started by rohan_raj in C:\Users\rohan_raj\Downloads\Vishal-logs-project)
+00:35:19.405 No active profile set, falling back to 1 default profile: "default"
+00:35:19.557 Tomcat initialized with port(s): 8099 (http)
+00:35:19.558 Initializing ProtocolHandler ["http-nio-8099"]
+00:35:19.558 Starting service [Tomcat]
+00:35:19.558 Starting Servlet engine: [Apache Tomcat/10.1.11]
+00:35:19.596 Initializing Spring embedded WebApplicationContext
+00:35:19.596 Root WebApplicationContext: initialization completed in 188 ms
+00:35:19.649 LiveReload server is running on port 35729
+00:35:19.653 Starting ProtocolHandler ["http-nio-8099"]
+00:35:19.664 Tomcat started on port(s): 8099 (http) with context path ''
+00:35:19.668 Started VishalLogsProjectApplication in 0.301 seconds (process running for 79.928)
+00:35:19.670 Condition evaluation unchanged
+00:35:25.584 Initializing Spring DispatcherServlet 'dispatcherServlet'
+00:35:25.584 Initializing Servlet 'dispatcherServlet'
+00:35:25.585 Completed initialization in 1 ms
+00:35:25.588 User Action productError
+00:35:25.588 Iterations 20
+00:35:25.588 Product music
+00:35:25.588 Method Name fnLogin  Session Id web-1693076725588 Status=Success  Logging in user with email testEmail72@gmail.com
+00:35:25.588 Method Name fnProduct  Session Id web-1693076725588 Status=Error  Error Viewing product music
+00:35:25.588 Method Name fnLogin  Session Id web-1693076725588 Status=Success  Logging in user with email testEmail72@gmail.com
+00:35:25.588 Method Name fnProduct  Session Id web-1693076725588 Status=Error  Error Viewing product music
+00:35:25.589 Method Name fnLogin  Session Id web-1693076725589 Status=Success  Logging in user with email testEmail89@gmail.com
+00:35:25.589 Method Name fnProduct  Session Id web-1693076725589 Status=Error  Error Viewing product music
+00:35:25.589 Method Name fnLogin  Session Id web-1693076725589 Status=Success  Logging in user with email testEmail27@gmail.com
+00:35:25.589 Method Name fnProduct  Session Id web-1693076725589 Status=Error  Error Viewing product music
+00:35:25.589 Method Name fnLogin  Session Id web-1693076725589 Status=Success  Logging in user with email testEmail80@gmail.com
+00:35:25.619 Method Name fnProduct  Session Id web-1693076725589 Status=Error  Error Viewing product music
+00:35:25.619 Method Name fnLogin  Session Id web-1693076725619 Status=Success  Logging in user with email testEmail26@gmail.com
+00:35:25.619 Method Name fnProduct  Session Id web-1693076725619 Status=Error  Error Viewing product music
+00:35:25.619 Method Name fnLogin  Session Id web-1693076725619 Status=Success  Logging in user with email testEmail62@gmail.com
+00:35:25.619 Method Name fnProduct  Session Id web-1693076725619 Status=Error  Error Viewing product music
+00:35:25.619 Method Name fnLogin  Session Id web-1693076725619 Status=Success  Logging in user with email testEmail63@gmail.com
+00:35:25.619 Method Name fnProduct  Session Id web-1693076725619 Status=Error  Error Viewing product music
+00:35:25.619 Method Name fnLogin  Session Id web-1693076725619 Status=Success  Logging in user with email testEmail42@gmail.com
+00:35:25.619 Method Name fnProduct  Session Id web-1693076725619 Status=Error  Error Viewing product music
+00:35:25.619 Method Name fnLogin  Session Id web-1693076725619 Status=Success  Logging in user with email testEmail88@gmail.com
+00:35:25.619 Method Name fnProduct  Session Id web-1693076725619 Status=Error  Error Viewing product music
+00:35:25.619 Method Name fnLogin  Session Id web-1693076725619 Status=Success  Logging in user with email testEmail8@gmail.com
+00:35:25.619 Method Name fnProduct  Session Id web-1693076725619 Status=Error  Error Viewing product music
+00:35:25.620 Method Name fnLogin  Session Id web-1693076725620 Status=Success  Logging in user with email testEmail61@gmail.com
+00:35:25.620 Method Name fnProduct  Session Id web-1693076725620 Status=Error  Error Viewing product music
+00:35:25.620 Method Name fnLogin  Session Id web-1693076725620 Status=Success  Logging in user with email testEmail14@gmail.com
+00:35:25.620 Method Name fnProduct  Session Id web-1693076725620 Status=Error  Error Viewing product music
+00:35:25.620 Method Name fnLogin  Session Id web-1693076725620 Status=Success  Logging in user with email testEmail32@gmail.com
+00:35:25.620 Method Name fnProduct  Session Id web-1693076725620 Status=Error  Error Viewing product music
+00:35:25.620 Method Name fnLogin  Session Id web-1693076725620 Status=Success  Logging in user with email testEmail57@gmail.com
+00:35:25.620 Method Name fnProduct  Session Id web-1693076725620 Status=Error  Error Viewing product music
+00:35:25.620 Method Name fnLogin  Session Id web-1693076725620 Status=Success  Logging in user with email testEmail87@gmail.com
+00:35:25.620 Method Name fnProduct  Session Id web-1693076725620 Status=Error  Error Viewing product music
+00:35:25.620 Method Name fnLogin  Session Id web-1693076725620 Status=Success  Logging in user with email testEmail41@gmail.com
+00:35:25.620 Method Name fnProduct  Session Id web-1693076725620 Status=Error  Error Viewing product music
+00:35:25.620 Method Name fnLogin  Session Id web-1693076725620 Status=Success  Logging in user with email testEmail95@gmail.com
+00:35:25.620 Method Name fnProduct  Session Id web-1693076725620 Status=Error  Error Viewing product music
+00:35:25.620 Method Name fnLogin  Session Id web-1693076725620 Status=Success  Logging in user with email testEmail99@gmail.com
+00:35:25.620 Method Name fnProduct  Session Id web-1693076725620 Status=Error  Error Viewing product music
+00:35:25.620 Method Name fnLogin  Session Id web-1693076725620 Status=Success  Logging in user with email testEmail9@gmail.com
+00:35:25.620 Method Name fnProduct  Session Id web-1693076725620 Status=Error  Error Viewing product music
+00:35:36.764 User Action addToCartError
+00:35:36.765 Iterations 50
+00:35:36.765 Product music
+00:35:36.765 Method Name fnLogin  Session Id web-1693076736765 Status=Success  Logging in user with email testEmail60@gmail.com
+00:35:36.765 Method Name fnProduct  Session Id web-1693076736765 Status=Success  Viewing product music
+00:35:36.765 Method Name fnAddToCart  Session Id web-1693076736765 Status=Error  Error Adding product to cart music
+00:35:36.765 Method Name fnLogin  Session Id web-1693076736765 Status=Success  Logging in user with email testEmail61@gmail.com
+00:35:36.765 Method Name fnProduct  Session Id web-1693076736765 Status=Success  Viewing product music
+00:35:36.765 Method Name fnAddToCart  Session Id web-1693076736765 Status=Error  Error Adding product to cart music
+00:35:36.766 Method Name fnLogin  Session Id web-1693076736766 Status=Success  Logging in user with email testEmail40@gmail.com
+00:35:36.766 Method Name fnProduct  Session Id web-1693076736766 Status=Success  Viewing product music
+00:35:36.766 Method Name fnAddToCart  Session Id web-1693076736766 Status=Error  Error Adding product to cart music
+00:35:36.766 Method Name fnLogin  Session Id web-1693076736766 Status=Success  Logging in user with email testEmail38@gmail.com
+00:35:36.766 Method Name fnProduct  Session Id web-1693076736766 Status=Success  Viewing product music
+00:35:36.766 Method Name fnAddToCart  Session Id web-1693076736766 Status=Error  Error Adding product to cart music
+00:35:36.766 Method Name fnLogin  Session Id web-1693076736766 Status=Success  Logging in user with email testEmail14@gmail.com
+00:35:36.766 Method Name fnProduct  Session Id web-1693076736766 Status=Success  Viewing product music
+00:35:36.766 Method Name fnAddToCart  Session Id web-1693076736766 Status=Error  Error Adding product to cart music
+00:35:36.766 Method Name fnLogin  Session Id web-1693076736766 Status=Success  Logging in user with email testEmail8@gmail.com
+00:35:36.767 Method Name fnProduct  Session Id web-1693076736766 Status=Success  Viewing product music
+00:35:36.767 Method Name fnAddToCart  Session Id web-1693076736766 Status=Error  Error Adding product to cart music
+00:35:36.767 Method Name fnLogin  Session Id web-1693076736767 Status=Success  Logging in user with email testEmail81@gmail.com
+00:35:36.767 Method Name fnProduct  Session Id web-1693076736767 Status=Success  Viewing product music
+00:35:36.767 Method Name fnAddToCart  Session Id web-1693076736767 Status=Error  Error Adding product to cart music
+00:35:36.767 Method Name fnLogin  Session Id web-1693076736767 Status=Success  Logging in user with email testEmail76@gmail.com
+00:35:36.767 Method Name fnProduct  Session Id web-1693076736767 Status=Success  Viewing product music
+00:35:36.767 Method Name fnAddToCart  Session Id web-1693076736767 Status=Error  Error Adding product to cart music
+00:35:36.767 Method Name fnLogin  Session Id web-1693076736767 Status=Success  Logging in user with email testEmail32@gmail.com
+00:35:36.767 Method Name fnProduct  Session Id web-1693076736767 Status=Success  Viewing product music
+00:35:36.768 Method Name fnAddToCart  Session Id web-1693076736767 Status=Error  Error Adding product to cart music
+00:35:36.768 Method Name fnLogin  Session Id web-1693076736768 Status=Success  Logging in user with email testEmail30@gmail.com
+00:35:36.768 Method Name fnProduct  Session Id web-1693076736768 Status=Success  Viewing product music
+00:35:36.768 Method Name fnAddToCart  Session Id web-1693076736768 Status=Error  Error Adding product to cart music
+00:35:36.768 Method Name fnLogin  Session Id web-1693076736768 Status=Success  Logging in user with email testEmail57@gmail.com
+00:35:36.768 Method Name fnProduct  Session Id web-1693076736768 Status=Success  Viewing product music
+00:35:36.769 Method Name fnAddToCart  Session Id web-1693076736768 Status=Error  Error Adding product to cart music
+00:35:36.769 Method Name fnLogin  Session Id web-1693076736769 Status=Success  Logging in user with email testEmail58@gmail.com
+00:35:36.769 Method Name fnProduct  Session Id web-1693076736769 Status=Success  Viewing product music
+00:35:36.769 Method Name fnAddToCart  Session Id web-1693076736769 Status=Error  Error Adding product to cart music
+00:35:36.769 Method Name fnLogin  Session Id web-1693076736769 Status=Success  Logging in user with email testEmail27@gmail.com
+00:35:36.770 Method Name fnProduct  Session Id web-1693076736769 Status=Success  Viewing product music
+00:35:36.770 Method Name fnAddToCart  Session Id web-1693076736769 Status=Error  Error Adding product to cart music
+00:35:36.770 Method Name fnLogin  Session Id web-1693076736770 Status=Success  Logging in user with email testEmail10@gmail.com
+00:35:36.770 Method Name fnProduct  Session Id web-1693076736770 Status=Success  Viewing product music
+00:35:36.770 Method Name fnAddToCart  Session Id web-1693076736770 Status=Error  Error Adding product to cart music
+00:35:36.770 Method Name fnLogin  Session Id web-1693076736770 Status=Success  Logging in user with email testEmail67@gmail.com
+00:35:36.770 Method Name fnProduct  Session Id web-1693076736770 Status=Success  Viewing product music
+00:35:36.770 Method Name fnAddToCart  Session Id web-1693076736770 Status=Error  Error Adding product to cart music
+00:35:36.770 Method Name fnLogin  Session Id web-1693076736770 Status=Success  Logging in user with email testEmail26@gmail.com
+00:35:36.771 Method Name fnProduct  Session Id web-1693076736770 Status=Success  Viewing product music
+00:35:36.771 Method Name fnAddToCart  Session Id web-1693076736770 Status=Error  Error Adding product to cart music
+00:35:36.771 Method Name fnLogin  Session Id web-1693076736771 Status=Success  Logging in user with email testEmail70@gmail.com
+00:35:36.771 Method Name fnProduct  Session Id web-1693076736771 Status=Success  Viewing product music
+00:35:36.771 Method Name fnAddToCart  Session Id web-1693076736771 Status=Error  Error Adding product to cart music
+00:35:36.771 Method Name fnLogin  Session Id web-1693076736771 Status=Success  Logging in user with email testEmail52@gmail.com
+00:35:36.771 Method Name fnProduct  Session Id web-1693076736771 Status=Success  Viewing product music
+00:35:36.771 Method Name fnAddToCart  Session Id web-1693076736771 Status=Error  Error Adding product to cart music
+00:35:36.771 Method Name fnLogin  Session Id web-1693076736771 Status=Success  Logging in user with email testEmail77@gmail.com
+00:35:36.771 Method Name fnProduct  Session Id web-1693076736771 Status=Success  Viewing product music
+00:35:36.803 Method Name fnAddToCart  Session Id web-1693076736771 Status=Error  Error Adding product to cart music
+00:35:36.804 Method Name fnLogin  Session Id web-1693076736803 Status=Success  Logging in user with email testEmail11@gmail.com
+00:35:36.804 Method Name fnProduct  Session Id web-1693076736803 Status=Success  Viewing product music
+00:35:36.804 Method Name fnAddToCart  Session Id web-1693076736803 Status=Error  Error Adding product to cart music
+00:35:36.804 Method Name fnLogin  Session Id web-1693076736804 Status=Success  Logging in user with email testEmail17@gmail.com
+00:35:36.805 Method Name fnProduct  Session Id web-1693076736804 Status=Success  Viewing product music
+00:35:36.805 Method Name fnAddToCart  Session Id web-1693076736804 Status=Error  Error Adding product to cart music
+00:35:36.805 Method Name fnLogin  Session Id web-1693076736805 Status=Success  Logging in user with email testEmail73@gmail.com
+00:35:36.805 Method Name fnProduct  Session Id web-1693076736805 Status=Success  Viewing product music
+00:35:36.805 Method Name fnAddToCart  Session Id web-1693076736805 Status=Error  Error Adding product to cart music
+00:35:36.805 Method Name fnLogin  Session Id web-1693076736805 Status=Success  Logging in user with email testEmail11@gmail.com
+00:35:36.805 Method Name fnProduct  Session Id web-1693076736805 Status=Success  Viewing product music
+00:35:36.806 Method Name fnAddToCart  Session Id web-1693076736805 Status=Error  Error Adding product to cart music
+00:35:36.806 Method Name fnLogin  Session Id web-1693076736806 Status=Success  Logging in user with email testEmail45@gmail.com
+00:35:36.806 Method Name fnProduct  Session Id web-1693076736806 Status=Success  Viewing product music
+00:35:36.806 Method Name fnAddToCart  Session Id web-1693076736806 Status=Error  Error Adding product to cart music
+00:35:36.806 Method Name fnLogin  Session Id web-1693076736806 Status=Success  Logging in user with email testEmail1@gmail.com
+00:35:36.806 Method Name fnProduct  Session Id web-1693076736806 Status=Success  Viewing product music
+00:35:36.806 Method Name fnAddToCart  Session Id web-1693076736806 Status=Error  Error Adding product to cart music
+00:35:36.807 Method Name fnLogin  Session Id web-1693076736807 Status=Success  Logging in user with email testEmail75@gmail.com
+00:35:36.807 Method Name fnProduct  Session Id web-1693076736807 Status=Success  Viewing product music
+00:35:36.807 Method Name fnAddToCart  Session Id web-1693076736807 Status=Error  Error Adding product to cart music
+00:35:36.807 Method Name fnLogin  Session Id web-1693076736807 Status=Success  Logging in user with email testEmail69@gmail.com
+00:35:36.807 Method Name fnProduct  Session Id web-1693076736807 Status=Success  Viewing product music
+00:35:36.807 Method Name fnAddToCart  Session Id web-1693076736807 Status=Error  Error Adding product to cart music
+00:35:36.807 Method Name fnLogin  Session Id web-1693076736807 Status=Success  Logging in user with email testEmail73@gmail.com
+00:35:36.808 Method Name fnProduct  Session Id web-1693076736807 Status=Success  Viewing product music
+00:35:36.809 Method Name fnAddToCart  Session Id web-1693076736807 Status=Error  Error Adding product to cart music
+00:35:36.809 Method Name fnLogin  Session Id web-1693076736809 Status=Success  Logging in user with email testEmail14@gmail.com
+00:35:36.809 Method Name fnProduct  Session Id web-1693076736809 Status=Success  Viewing product music
+00:35:36.809 Method Name fnAddToCart  Session Id web-1693076736809 Status=Error  Error Adding product to cart music
+00:35:36.809 Method Name fnLogin  Session Id web-1693076736809 Status=Success  Logging in user with email testEmail36@gmail.com
+00:35:36.809 Method Name fnProduct  Session Id web-1693076736809 Status=Success  Viewing product music
+00:35:36.809 Method Name fnAddToCart  Session Id web-1693076736809 Status=Error  Error Adding product to cart music
+00:35:36.809 Method Name fnLogin  Session Id web-1693076736809 Status=Success  Logging in user with email testEmail85@gmail.com
+00:35:36.809 Method Name fnProduct  Session Id web-1693076736809 Status=Success  Viewing product music
+00:35:36.809 Method Name fnAddToCart  Session Id web-1693076736809 Status=Error  Error Adding product to cart music
+00:35:36.809 Method Name fnLogin  Session Id web-1693076736809 Status=Success  Logging in user with email testEmail23@gmail.com
+00:35:36.810 Method Name fnProduct  Session Id web-1693076736809 Status=Success  Viewing product music
+00:35:36.810 Method Name fnAddToCart  Session Id web-1693076736809 Status=Error  Error Adding product to cart music
+00:35:36.810 Method Name fnLogin  Session Id web-1693076736810 Status=Success  Logging in user with email testEmail44@gmail.com
+00:35:36.810 Method Name fnProduct  Session Id web-1693076736810 Status=Success  Viewing product music
+00:35:36.810 Method Name fnAddToCart  Session Id web-1693076736810 Status=Error  Error Adding product to cart music
+00:35:36.810 Method Name fnLogin  Session Id web-1693076736810 Status=Success  Logging in user with email testEmail39@gmail.com
+00:35:36.810 Method Name fnProduct  Session Id web-1693076736810 Status=Success  Viewing product music
+00:35:36.810 Method Name fnAddToCart  Session Id web-1693076736810 Status=Error  Error Adding product to cart music
+00:35:36.810 Method Name fnLogin  Session Id web-1693076736810 Status=Success  Logging in user with email testEmail11@gmail.com
+00:35:36.810 Method Name fnProduct  Session Id web-1693076736810 Status=Success  Viewing product music
+00:35:36.810 Method Name fnAddToCart  Session Id web-1693076736810 Status=Error  Error Adding product to cart music
+00:35:36.810 Method Name fnLogin  Session Id web-1693076736810 Status=Success  Logging in user with email testEmail94@gmail.com
+00:35:36.810 Method Name fnProduct  Session Id web-1693076736810 Status=Success  Viewing product music
+00:35:36.810 Method Name fnAddToCart  Session Id web-1693076736810 Status=Error  Error Adding product to cart music
+00:35:36.810 Method Name fnLogin  Session Id web-1693076736810 Status=Success  Logging in user with email testEmail44@gmail.com
+00:35:36.810 Method Name fnProduct  Session Id web-1693076736810 Status=Success  Viewing product music
+00:35:36.810 Method Name fnAddToCart  Session Id web-1693076736810 Status=Error  Error Adding product to cart music
+00:35:36.810 Method Name fnLogin  Session Id web-1693076736810 Status=Success  Logging in user with email testEmail65@gmail.com
+00:35:36.810 Method Name fnProduct  Session Id web-1693076736810 Status=Success  Viewing product music
+00:35:36.811 Method Name fnAddToCart  Session Id web-1693076736810 Status=Error  Error Adding product to cart music
+00:35:36.811 Method Name fnLogin  Session Id web-1693076736811 Status=Success  Logging in user with email testEmail69@gmail.com
+00:35:36.811 Method Name fnProduct  Session Id web-1693076736811 Status=Success  Viewing product music
+00:35:36.811 Method Name fnAddToCart  Session Id web-1693076736811 Status=Error  Error Adding product to cart music
+00:35:36.811 Method Name fnLogin  Session Id web-1693076736811 Status=Success  Logging in user with email testEmail9@gmail.com
+00:35:36.812 Method Name fnProduct  Session Id web-1693076736811 Status=Success  Viewing product music
+00:35:36.812 Method Name fnAddToCart  Session Id web-1693076736811 Status=Error  Error Adding product to cart music
+00:35:36.812 Method Name fnLogin  Session Id web-1693076736812 Status=Success  Logging in user with email testEmail55@gmail.com
+00:35:36.812 Method Name fnProduct  Session Id web-1693076736812 Status=Success  Viewing product music
+00:35:36.812 Method Name fnAddToCart  Session Id web-1693076736812 Status=Error  Error Adding product to cart music
+00:35:36.812 Method Name fnLogin  Session Id web-1693076736812 Status=Success  Logging in user with email testEmail51@gmail.com
+00:35:36.812 Method Name fnProduct  Session Id web-1693076736812 Status=Success  Viewing product music
+00:35:36.812 Method Name fnAddToCart  Session Id web-1693076736812 Status=Error  Error Adding product to cart music
+00:35:36.813 Method Name fnLogin  Session Id web-1693076736813 Status=Success  Logging in user with email testEmail35@gmail.com
+00:35:36.813 Method Name fnProduct  Session Id web-1693076736813 Status=Success  Viewing product music
+00:35:36.813 Method Name fnAddToCart  Session Id web-1693076736813 Status=Error  Error Adding product to cart music
+00:35:36.814 Method Name fnLogin  Session Id web-1693076736813 Status=Success  Logging in user with email testEmail45@gmail.com
+00:35:36.814 Method Name fnProduct  Session Id web-1693076736813 Status=Success  Viewing product music
+00:35:36.814 Method Name fnAddToCart  Session Id web-1693076736813 Status=Error  Error Adding product to cart music
+00:35:36.814 Method Name fnLogin  Session Id web-1693076736814 Status=Success  Logging in user with email testEmail30@gmail.com
+00:35:36.814 Method Name fnProduct  Session Id web-1693076736814 Status=Success  Viewing product music
+00:35:36.814 Method Name fnAddToCart  Session Id web-1693076736814 Status=Error  Error Adding product to cart music
+00:35:36.814 Method Name fnLogin  Session Id web-1693076736814 Status=Success  Logging in user with email testEmail29@gmail.com
+00:35:36.814 Method Name fnProduct  Session Id web-1693076736814 Status=Success  Viewing product music
+00:35:36.814 Method Name fnAddToCart  Session Id web-1693076736814 Status=Error  Error Adding product to cart music
+00:35:36.814 Method Name fnLogin  Session Id web-1693076736814 Status=Success  Logging in user with email testEmail34@gmail.com
+00:35:36.814 Method Name fnProduct  Session Id web-1693076736814 Status=Success  Viewing product music
+00:35:36.814 Method Name fnAddToCart  Session Id web-1693076736814 Status=Error  Error Adding product to cart music
+00:35:36.814 Method Name fnLogin  Session Id web-1693076736814 Status=Success  Logging in user with email testEmail96@gmail.com
+00:35:36.814 Method Name fnProduct  Session Id web-1693076736814 Status=Success  Viewing product music
+00:35:36.814 Method Name fnAddToCart  Session Id web-1693076736814 Status=Error  Error Adding product to cart music
+00:35:36.834 Method Name fnLogin  Session Id web-1693076736834 Status=Success  Logging in user with email testEmail33@gmail.com
+00:35:36.834 Method Name fnProduct  Session Id web-1693076736834 Status=Success  Viewing product music
+00:35:36.834 Method Name fnAddToCart  Session Id web-1693076736834 Status=Error  Error Adding product to cart music
+00:35:36.834 Method Name fnLogin  Session Id web-1693076736834 Status=Success  Logging in user with email testEmail8@gmail.com
+00:35:36.834 Method Name fnProduct  Session Id web-1693076736834 Status=Success  Viewing product music
+00:35:36.834 Method Name fnAddToCart  Session Id web-1693076736834 Status=Error  Error Adding product to cart music
+00:37:29.971 Restarting due to 8 class path changes (0 additions, 8 deletions, 0 modifications)
+00:37:30.030 Pausing ProtocolHandler ["http-nio-8099"]
+00:37:30.035 Stopping service [Tomcat]
+00:37:30.038 Destroying Spring FrameworkServlet 'dispatcherServlet'
+00:37:30.042 Stopping ProtocolHandler ["http-nio-8099"]
+00:37:30.050 Destroying ProtocolHandler ["http-nio-8099"]
+00:37:37.659 Starting VishalLogsProjectApplication using Java 17.0.7 with PID 19264 (C:\Users\rohan_raj\Downloads\Vishal-logs-project\target\classes started by rohan_raj in C:\Users\rohan_raj\Downloads\Vishal-logs-project)
+00:37:37.672 No active profile set, falling back to 1 default profile: "default"
+00:37:37.927 Tomcat initialized with port(s): 8099 (http)
+00:37:37.931 Starting service [Tomcat]
+00:37:37.931 Starting Servlet engine: [Apache Tomcat/10.1.11]
+00:37:37.981 Initializing Spring embedded WebApplicationContext
+00:37:37.981 Root WebApplicationContext: initialization completed in 306 ms
+00:37:38.078 LiveReload server is running on port 35729
+00:37:38.086 Starting ProtocolHandler ["http-nio-8099"]
+00:37:38.100 Tomcat started on port(s): 8099 (http) with context path ''
+00:37:38.107 Started VishalLogsProjectApplication in 0.53 seconds (process running for 218.366)
+00:37:38.109 Condition evaluation unchanged
+00:55:21.106 Restarting due to 5 class path changes (0 additions, 5 deletions, 0 modifications)
+00:55:21.201 Pausing ProtocolHandler ["http-nio-8099"]
+00:55:21.202 Stopping service [Tomcat]
+00:55:21.209 Stopping ProtocolHandler ["http-nio-8099"]
+00:55:21.213 Destroying ProtocolHandler ["http-nio-8099"]
+00:55:21.595 Starting VishalLogsProjectApplication using Java 17.0.7 with PID 19264 (C:\Users\rohan_raj\Downloads\Vishal-logs-project\target\classes started by rohan_raj in C:\Users\rohan_raj\Downloads\Vishal-logs-project)
+00:55:21.597 No active profile set, falling back to 1 default profile: "default"
+00:55:21.948 Application run failed
+java.lang.NullPointerException: Cannot read field "generatedClass" because "data" is null
+	at org.springframework.cglib.proxy.Enhancer.nextInstance(Enhancer.java:783) ~[spring-core-6.0.11.jar:6.0.11]
+	at org.springframework.cglib.core.AbstractClassGenerator.create(AbstractClassGenerator.java:321) ~[spring-core-6.0.11.jar:6.0.11]
+	at org.springframework.cglib.proxy.Enhancer.createHelper(Enhancer.java:562) ~[spring-core-6.0.11.jar:6.0.11]
+	at org.springframework.cglib.proxy.Enhancer.createClass(Enhancer.java:407) ~[spring-core-6.0.11.jar:6.0.11]
+	at org.springframework.context.annotation.ConfigurationClassEnhancer.createClass(ConfigurationClassEnhancer.java:138) ~[spring-context-6.0.11.jar:6.0.11]
+	at org.springframework.context.annotation.ConfigurationClassEnhancer.enhance(ConfigurationClassEnhancer.java:109) ~[spring-context-6.0.11.jar:6.0.11]
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.enhanceConfigurationClasses(ConfigurationClassPostProcessor.java:531) ~[spring-context-6.0.11.jar:6.0.11]
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanFactory(ConfigurationClassPostProcessor.java:308) ~[spring-context-6.0.11.jar:6.0.11]
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:358) ~[spring-context-6.0.11.jar:6.0.11]
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:150) ~[spring-context-6.0.11.jar:6.0.11]
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:771) ~[spring-context-6.0.11.jar:6.0.11]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:589) ~[spring-context-6.0.11.jar:6.0.11]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.1.2.jar:3.1.2]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:734) [spring-boot-3.1.2.jar:3.1.2]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:436) [spring-boot-3.1.2.jar:3.1.2]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:312) [spring-boot-3.1.2.jar:3.1.2]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306) [spring-boot-3.1.2.jar:3.1.2]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1295) [spring-boot-3.1.2.jar:3.1.2]
+	at com.log.logs.VishalLogsProjectApplication.main(VishalLogsProjectApplication.java:10) [classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50) [spring-boot-devtools-3.1.2.jar:3.1.2]
+00:55:23.504 Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+00:55:23.506 For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+00:55:23.519 Starting VishalLogsProjectApplication using Java 17.0.7 with PID 19264 (C:\Users\rohan_raj\Downloads\Vishal-logs-project\target\classes started by rohan_raj in C:\Users\rohan_raj\Downloads\Vishal-logs-project)
+00:55:23.519 No active profile set, falling back to 1 default profile: "default"
+00:55:23.853 Application run failed
+java.lang.NullPointerException: Cannot read field "generatedClass" because "data" is null
+	at org.springframework.cglib.proxy.Enhancer.nextInstance(Enhancer.java:783) ~[spring-core-6.0.11.jar:6.0.11]
+	at org.springframework.cglib.core.AbstractClassGenerator.create(AbstractClassGenerator.java:321) ~[spring-core-6.0.11.jar:6.0.11]
+	at org.springframework.cglib.proxy.Enhancer.createHelper(Enhancer.java:562) ~[spring-core-6.0.11.jar:6.0.11]
+	at org.springframework.cglib.proxy.Enhancer.createClass(Enhancer.java:407) ~[spring-core-6.0.11.jar:6.0.11]
+	at org.springframework.context.annotation.ConfigurationClassEnhancer.createClass(ConfigurationClassEnhancer.java:138) ~[spring-context-6.0.11.jar:6.0.11]
+	at org.springframework.context.annotation.ConfigurationClassEnhancer.enhance(ConfigurationClassEnhancer.java:109) ~[spring-context-6.0.11.jar:6.0.11]
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.enhanceConfigurationClasses(ConfigurationClassPostProcessor.java:531) ~[spring-context-6.0.11.jar:6.0.11]
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanFactory(ConfigurationClassPostProcessor.java:308) ~[spring-context-6.0.11.jar:6.0.11]
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:358) ~[spring-context-6.0.11.jar:6.0.11]
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:150) ~[spring-context-6.0.11.jar:6.0.11]
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:771) ~[spring-context-6.0.11.jar:6.0.11]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:589) ~[spring-context-6.0.11.jar:6.0.11]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.1.2.jar:3.1.2]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:734) [spring-boot-3.1.2.jar:3.1.2]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:436) [spring-boot-3.1.2.jar:3.1.2]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:312) [spring-boot-3.1.2.jar:3.1.2]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306) [spring-boot-3.1.2.jar:3.1.2]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1295) [spring-boot-3.1.2.jar:3.1.2]
+	at com.log.logs.VishalLogsProjectApplication.main(VishalLogsProjectApplication.java:10) [classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50) [spring-boot-devtools-3.1.2.jar:3.1.2]
+00:55:28.494 Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+00:55:28.495 For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+00:55:28.500 Starting VishalLogsProjectApplication using Java 17.0.7 with PID 19264 (C:\Users\rohan_raj\Downloads\Vishal-logs-project\target\classes started by rohan_raj in C:\Users\rohan_raj\Downloads\Vishal-logs-project)
+00:55:28.501 No active profile set, falling back to 1 default profile: "default"
+00:55:29.030 Tomcat initialized with port(s): 8099 (http)
+00:55:29.031 Initializing ProtocolHandler ["http-nio-8099"]
+00:55:29.032 Starting service [Tomcat]
+00:55:29.032 Starting Servlet engine: [Apache Tomcat/10.1.11]
+00:55:29.145 Initializing Spring embedded WebApplicationContext
+00:55:29.145 Root WebApplicationContext: initialization completed in 640 ms
+00:55:29.383 LiveReload server is running on port 35729
+00:55:29.398 Starting ProtocolHandler ["http-nio-8099"]
+00:55:29.467 Tomcat started on port(s): 8099 (http) with context path ''
+00:55:29.477 Started VishalLogsProjectApplication in 1.023 seconds (process running for 1289.737)
+00:55:29.482 Condition evaluation unchanged
+00:55:50.613 Could not detect default configuration classes for test class [com.log.logs.VishalLogsProjectApplicationTests]: VishalLogsProjectApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+00:55:50.923 Found @SpringBootConfiguration com.log.logs.VishalLogsProjectApplication for test class com.log.logs.VishalLogsProjectApplicationTests
+00:55:51.737 Starting VishalLogsProjectApplicationTests using Java 17.0.8 with PID 32008 (started by rohan_raj in C:\Users\rohan_raj\Downloads\Vishal-logs-project)
+00:55:51.744 No active profile set, falling back to 1 default profile: "default"
+00:55:54.526 Started VishalLogsProjectApplicationTests in 3.301 seconds (process running for 7.45)
+12:33:23.050 Application shutdown requested.
+12:33:23.258 Pausing ProtocolHandler ["http-nio-8099"]
+12:33:23.259 Stopping service [Tomcat]
+12:33:23.322 Stopping ProtocolHandler ["http-nio-8099"]
+12:33:23.332 Destroying ProtocolHandler ["http-nio-8099"]
